@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4b6a307cfdf396d9","x":-700,"y":-480,"width":400,"height":400,"type":"file","file":"Conan/pangomm.md"},
+		{"id":"474e39977b932506","x":99,"y":-390,"width":250,"height":60,"type":"text","text":"Download pangomm"},
+		{"id":"3cb2394f036dfa12","x":-40,"y":0,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b39aba55816e6298","x":460,"y":-160,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
