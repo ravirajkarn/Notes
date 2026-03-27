@@ -22,6 +22,7 @@ auto-repair    ---     use to repair broken installation 
 update         ---     use to update package
 ```
 
+---
 ### installing multiple program simultaneously
 1. Using `dpkg`:
 
@@ -65,6 +66,7 @@ Code
 
 Replace `/path/to/the/directory/containing/debs` with the actual path.
 
+---
 ### Installation of pre-compiled binaries.
 #### Option 1: The System-Wide Way
 place all the  contain of `bin` & `lib` inside `/usr/local/`
@@ -75,7 +77,7 @@ sudo cp -r bin/* /usr/local/bin
 sudo cp -r lib/* /usr/local/lib
 ```
 
-> [!NOTE] 
+> [!important] 
 > If lib contain may item.
 > ```bash
 > sudo cp -r bin/* /usr/local/bin
@@ -112,3 +114,32 @@ sudo ln -s /opt/my_app/bin/app_name /usr/local/bin/app_name
 - Move `bin` file to: `~/.local/bin`
 - Move `lib` file to: `~/.local/lib`
 - add `~/.local/bin` to your system's PATH variable
+  
+
+> [!tip] 
+> After all this you want to create/see icon on menu then.
+> **Step 1: Create the Desktop Entry:**
+> ```Bash
+> sudo nvim /usr/share/application/your_app.desktop
+> ```
+> **Step 2: Configuration it**
+> ```ini,TOML
+> [Desktop Entry]
+> Version=1.0
+> Type=Application
+> Name=AB Download Manager
+> Comment=Fast and easy download manager
+> # Update the path below to the actual executable file
+> Exec=/opt/ABDownloadManager/bin/ABDownloadManager
+> # Update the path below to the PNG file you found in the lib folder
+> Icon=/opt/ABDownloadManager/lib/app_icon.png
+> Terminal=false
+> Categories=Network;WebBrowser;
+> StartupNotify=true
+> ```
+> **Step 3. Set Correct Permission**
+> ```bash
+> sudo chmod +x /usr/share/applications/my_app.desktop
+> ```
+
+
