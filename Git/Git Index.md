@@ -15,4 +15,7 @@ tags:
 4. [[learngitbranching]]
 5. [[get only one folder]]
 6. [[how to contribute]]
-7. 
+7. [[GitHub PAT]]
+8. [[Git LFS]]
+9. [[serie]]
+10. 

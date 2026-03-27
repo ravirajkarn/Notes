@@ -57,10 +57,10 @@ git push origin feature/your-feature-name
 ```
 ## 4. Opening a Pull Request (PR)
 Now that your code is on GitHub, you need to ask the original maintainers to review it.
-1. Navigate to the original repository on GitHub. You will often see a yellow banner saying **"Compare & pull request"** for your recently pushed branch.
-2. **Click "Create pull request".**
-3. **Describe Your Changes:** Explain why you made the change and how you tested it.
-4. **Submit:** The maintainers will review your code. They might ask for changes, which you can make by committing and pushing to the same branch; the PR will update automatically.
+	1. Navigate to the original repository on GitHub. You will often see a yellow banner saying **"Compare & pull request"** for your recently pushed branch.
+1. **Click "Create pull request".**
+2. **Describe Your Changes:** Explain why you made the change and how you tested it.
+3. **Submit:** The maintainers will review your code. They might ask for changes, which you can make by committing and pushing to the same branch; the PR will update automatically.
 
 |**Remote Name**|**Points To...**|**Purpose**|
 |---|---|---|
