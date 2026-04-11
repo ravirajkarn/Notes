@@ -6,5 +6,7 @@ tags:
   - Algorithm
   - Index
 ---
-1. [Sorting Index](Sorting%20Index.md)
+1. [Sorting Algorithm](Sorting%20Index.md)
 2. [Prime Number](Prime%20Number.md)
+3. [[Searching Index| Searching Algorithm]]
+4. 

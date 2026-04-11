@@ -7,7 +7,9 @@ tags:
   - webdev
 ---
 # Web-Development
-1. [[HTML]]
-2. [[CSS]]
-3. [[JavaScript]]
-4. [[Web-Assembly]]
+1. [[HTML Index]]
+2. [[CSS Index]]
+3. [[JavaScript Index]]
+4. [[Web-Assembly Index]]
+5. [[TypeScript Index]]
+6. 

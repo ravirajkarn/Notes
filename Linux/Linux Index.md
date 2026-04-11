@@ -37,4 +37,8 @@ tags:
 28. [[exiftool]]
 29. [[tee]]
 30. [[grub]]
-31. 
+31. [[font]]
+32. [[7zip]]
+33. [[Network manager]]
+34. [[kitty]]
+35. 

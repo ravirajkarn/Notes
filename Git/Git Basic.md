@@ -39,3 +39,10 @@ Note:-  Only  amend  commits  that  are  still  local  and  have  not  been  pus
 -  (Pg.-  54)  `git  checkout  <file>`  :  To  replace  the  file  with  previously  staged  or  committed  file
 -  (Pg.-  55)  `git  restore  --staged  <file>`  :  It  is  an  alternative  of  `git  reset  HEAD  <file>`
 -  (Pg.-  56)  `git  restore  <file>`  :  It  is  an  alternative  of  `git  reset`
+
+- `git reset --soft HEAD~1` : Undoes the commit but keeps your changes in the staging area.
+- `git reset --mixed HEAD~1` : Undoes the commit and unstages chages, but keeps files in you folder.
+- `git reset --hard HEAD~1` : **completely deletes the commit** and all its changes. ==This cannot be easily undone.==
+
+> [!tip] 
+> **`git reset` :** is Best for local/Unpushed Commits.

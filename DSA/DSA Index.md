@@ -8,7 +8,7 @@ tags:
 ---
 # DAS Index
 1. [[Algorithm Index]]
-2. [[Data Structure]]
+2. [[Data Structure Index]]
 3. [[Big O Time Complexity]]
 4. [[Travelling Salesperson]]
 5. 

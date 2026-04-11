@@ -8,5 +8,5 @@ tags:
 ---
 
 # Index
-1. [[TypeScript/Introduction|Introduction]]
+1. [[WebDev/TypeScript/Introduction|Introduction]]
 2. 

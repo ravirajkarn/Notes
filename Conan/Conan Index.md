@@ -14,6 +14,9 @@ tags:
 5. [changing generator](changing%20generator.md)
 6. [Creating my own recipe](Creating%20my%20own%20recipe.md)
 7. [[Creating profile]]
-8. [[Conan/FAAD2]]
+8. [[FAAD2]]
 9. [[Environment]]
-10. 
+10. [[Creating Packages]]
+11. [[pangomm]]
+12. [[remove packages]]
+13. 

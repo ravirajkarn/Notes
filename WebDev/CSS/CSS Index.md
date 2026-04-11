@@ -7,4 +7,6 @@ tags:
   - Index
 ---
 # CSS Index
-1. ![[Tailwind CSS]]
+1. ![[Tailwind CSS Index]]
+2. [[Ways to include CSS to HTML]]
+3. 

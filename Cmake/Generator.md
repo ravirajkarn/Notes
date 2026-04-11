@@ -11,7 +11,9 @@ tags:
 # Generator
 
 I am currently using ninja
-
+```bash
+sudo apt install build-essential ninja-build
+```
 ## Single-Config Generator
 **Single-Config Generator** (like "Ninja" or "Unix Makefiles")
 

@@ -22,3 +22,15 @@ sudo iwconfig wlan0 mode monitor // and other metord with one.
 sudo airmon-ng start wlan0 1
 sudo airmon-ng check kill
 ```
+
+
+> [!warning] 
+> Processes that could cause trouble.
+> Kill them using 'airmon-ng check kill' before putting the card in monitor mode, they will interfere by changing channels and sometimes putting the interface back in managed mode
+> 	
+> 	PID Name
+> 	1103 NetworkManager
+> 	1207 wpa_supplicant
+> 	
+> Requested device "wlan0" does not exist.
+> Run /usr/sbin/airmon-ng without any arguments to see available interfaces
