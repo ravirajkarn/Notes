@@ -37,6 +37,7 @@ tags:
 - [ ] [[Web Development]]
 ## Extras I learned
 1. [Compile](Compile%20index.md)
+2. [[xml index|XML]]
 
 ## Hacking
 - [ ] [802.11 Index](802.11%20Index.md)

@@ -27,4 +27,5 @@ tags:
 17. [Generator](Generator.md)
 18. [detecting platform](detecting%20platform.md)
 19. [detecting build type](detecting%20build%20type.md)
-20. 
+20. [[linking Resource]]
+21. 

@@ -41,4 +41,6 @@ tags:
 32. [[7zip]]
 33. [[Network manager]]
 34. [[kitty]]
-35. 
+35. [[ln]]
+36. [[xclip]]
+37. 
