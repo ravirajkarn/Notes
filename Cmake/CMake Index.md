@@ -28,4 +28,6 @@ tags:
 18. [detecting platform](detecting%20platform.md)
 19. [detecting build type](detecting%20build%20type.md)
 20. [[linking Resource]]
-21. 
+21. [[Types of libraries]]
+22. [[add_library]]
+23. 

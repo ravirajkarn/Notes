@@ -33,6 +33,9 @@ tags:
 23. [API type to learn](API%20type%20to%20learn.md)
 24. [log](log.md)
 25. [RAII](RAII.md)
+26. [[std scoped_lock]]
+27. [[user input]]
+28. [[Cpp/module]]
 
 
 
