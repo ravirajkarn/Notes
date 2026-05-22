@@ -86,7 +86,7 @@ tags:
 - [ ] [\<syncstream>](https://en.cppreference.com/w/cpp/header/syncstream) 
 - [ ] [\<compare>](https://en.cppreference.com/w/cpp/header/compare) 
 - [x] [[format|<format>]]
-- [ ] [\<ranges>](https://en.cppreference.com/w/cpp/header/ranges) 
+- [ ] [[Ranges|<ranges>]]
 - [ ] [<\span>](https://en.cppreference.com/w/cpp/header/span) 
 - [ ] [\<version>](https://en.cppreference.com/w/cpp/header/version) 
 # Headers added in C++23 
