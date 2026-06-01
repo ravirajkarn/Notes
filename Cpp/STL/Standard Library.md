@@ -42,7 +42,7 @@ tags:
 - [ ] [\<functional>](https://en.cppreference.com/w/cpp/header/functional) 
 - [ ] [\<limits>](https://en.cppreference.com/w/cpp/header/limits) 
 # Headers added in C++11 
-- [x] [\<array\>](array.md)
+- [x] [\<array\>](Cpp/STL/array.md)
 - [ ] [\<condition_variable>](https://en.cppreference.com/w/cpp/header/condition_variable) 
 - [x] [\<mutex\>](mutex.md)
 - [ ] [\<scoped_allocator>](https://en.cppreference.com/w/cpp/header/scoped_allocator) 
