@@ -11,3 +11,10 @@ tags:
 - [ ] [NumPy](NumPy.md)
 - [ ] [Matplotlib](Matplotlib.md)
 - [ ] [SymPy](SymPy.md)
+- [ ] [[Playwright]]
+- [ ] [[pypdfium2]]
+- [ ] [[logging]]
+- [ ] [[isinstance]]
+- [ ] [[pypdfium2]]
+- [ ] [[pdfplumber]]
+- [ ] 

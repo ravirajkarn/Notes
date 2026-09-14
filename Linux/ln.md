@@ -10,3 +10,4 @@ tags:
 # ln
 ln - make links between files
 
+`ln -s argument_file symbolic_file`

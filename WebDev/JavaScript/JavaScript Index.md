@@ -10,10 +10,12 @@ tags:
 
 # JavaScript Index
 1. [[WebDev/JavaScript/Introduction|Introduction]]
-2. [[Variable and Data Types]]
-3. [[Conversion Operation]]
-4. [[reference]]
-5. [[Date and Time]]
-6. [[Temporal]]
-7. [[WebDev/JavaScript/Array| Array]]
-8. 
+2. [[React Index]]
+3. [[TypeScript Index]]
+4. [[Variable and Data Types]]
+5. [[Conversion Operation]]
+6. [[reference]]
+7. [[Date and Time]]
+8. [[Temporal]]
+9. [[WebDev/JavaScript/Array| Array]]
+10. 

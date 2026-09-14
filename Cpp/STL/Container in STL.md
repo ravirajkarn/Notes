@@ -39,7 +39,7 @@ Unordered associative containers implement unsorted (hashed) data structures tha
 - ## Container adaptors 
 Container adaptors provide a different interface for sequential containers. 
 
-| [stack](https://en.cppreference.com/w/cpp/container/stack)                             | adapts a container to provide stack (LIFO data structure) <br>(class template)                               |
+| [[stack]]                                                                              | adapts a container to provide stack (LIFO data structure) <br>(class template)                               |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [queue](https://en.cppreference.com/w/cpp/container/queue)                             | adapts a container to provide queue (FIFO data structure) <br>(class template)                               |
 | [priority_queue](https://en.cppreference.com/w/cpp/container/priority_queue)           | adapts a container to provide priority queue <br>(class template)                                            |

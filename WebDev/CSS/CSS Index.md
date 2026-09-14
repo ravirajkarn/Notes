@@ -7,6 +7,10 @@ tags:
   - Index
 ---
 # CSS Index
-1. ![[Tailwind CSS Index]]
-2. [[Ways to include CSS to HTML]]
-3. 
+1. [[WebDev/CSS/Introduction]]
+2. ![[Tailwind CSS Index]]
+3. [[Ways to include CSS to HTML]]
+4. [[dash or hyphen(-)]]
+5. [[detect dark or light]]
+6. [[Specificity]]
+7. 

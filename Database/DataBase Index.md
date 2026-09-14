@@ -7,5 +7,12 @@ tags:
   - Index
 ---
 # Database Index
-- [ ] [SQLite Index](SQLite%20Index.md)
+- [ ] [[Database]]
+- [ ] [[sql Introduction]]
+- [ ] [[MySQL Index]]
+- [ ] [[SQLite Index]]
+- [ ] [[MariaDB Index]]
+- [ ] [[DBeaver]]
+- [ ] [[Entity Relationship Diagram(EDR)]]
+- [ ] [[Redis]]
 - [ ] 

@@ -11,5 +11,4 @@ tags:
 2. [[CSS Index]]
 3. [[JavaScript Index]]
 4. [[Web-Assembly Index]]
-5. [[TypeScript Index]]
-6. 
+5. 

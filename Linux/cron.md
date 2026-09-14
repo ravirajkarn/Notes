@@ -65,3 +65,8 @@ Explanation of the components:
 - `/path/to/command`: This is the command or script you want to execute.
 - `>> /path/to/logfile.log`: This redirects standard output (stdout) and appends it to the specified log file. If the file doesn't exist, it will be created. Using `>>` ensures that new output is added to the end of the file, rather than overwriting previous content (which `>` would do).
 - `2>&1`: This is crucial for capturing stderr. It redirects file descriptor 2 (standard error) to the same location as file descriptor 1 (standard output). Since stdout is already being redirected to `/path/to/logfile.log`, this effectively sends stderr to the same log file.
+
+## See log 
+```bash
+journalctl -u cron -f
+```

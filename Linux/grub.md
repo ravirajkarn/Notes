@@ -10,7 +10,7 @@ tags:
 It is boot menu appear on the screen on starting of the screen.
 
 > [!important]  Add new theme.
-> 1. **Copy the team folder**
+> 1. **Copy the theme folder**
 > `/boot/grub/themes` or `/usr/share/grub/themes`
 > 2. **Edit the Config**.
 > `sudo nvim /etc/default/grub`

@@ -16,7 +16,7 @@ tags:
 6. [List in CMake](List%20in%20CMake.md)
 7. [Conditions in CMake](Conditions%20in%20CMake.md)
 8. [Loop in CMake](Loop%20in%20CMake.md)
-9. [Function](Function.md)
+9. [Function](Cmake/Function.md)
 10. [Macro](Macro.md)
 11. [Simple project](Simple%20project.md)
 12. [For more information](For%20more%20information.md)
